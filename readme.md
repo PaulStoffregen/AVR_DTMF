@@ -6,6 +6,7 @@ Copyright (c) 2015, Paul Stoffregen
 I oringally developed this 8 bit AVR-based DTMF decoding code in 2009 for a special one-off project.  More recently, I created a superior implementation for 32 bit ARM Cortex-M4 in the Teensy Audio Library.
 
 http://www.pjrc.com/teensy/td_libs_Audio.html
+
 https://github.com/PaulStoffregen/Audio/blob/master/examples/Analysis/DialTone_Serial/DialTone_Serial.ino
 
 I highly recommend using the 32 bit version for new projects.  However, this old 8 bit code may still be useful for some projects.  If you use this code, I only ask that you preserve this info and links to the newer library.
