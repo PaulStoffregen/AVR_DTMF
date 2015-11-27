@@ -2,7 +2,7 @@
 Efficient AVR DTMF Decoding
 Copyright (c) 2015, Paul Stoffregen
 
-I oringally developed this 8 bit AVR-based DTMF decoding code in 2009 for a
+I originally developed this 8 bit AVR-based DTMF decoding code in 2009 for a
 special one-off project.  More recently, I created a superior implementation
 for 32 bit ARM Cortex-M4 in the Teensy Audio Library.
 
